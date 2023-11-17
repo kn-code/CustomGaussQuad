@@ -7,7 +7,6 @@
 #include <boost/ut.hpp>
 
 #include <custom_gauss_quad.h>
-#include <unsupported/Eigen/MPRealSupport>
 
 using namespace boost::ut;
 using namespace boost::ut::literals;
